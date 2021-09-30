@@ -8,4 +8,35 @@
 <li>The third and following rows list the ingredients used in the recipe. </li>
 <li>An empty row signals that the recipe is over, and that the row after it starts a new recipe.</li>
   </ul>
+  
+  <h1>Sample Output</h1>
+  <p>
+  <h4>File to read:</h4> recipes.txt
+
+  <h3>Commands:</h3>
+list - lists the recipes
+  <br />
+stop - stops the program
+  <br />
+find name - searches recipes by name
+  <br />
+find cooking time - searches recipes by cooking time
+  <br />
+find ingredient - searches recipes by ingredient
+  <br />
+  <br />
+  <br />
+  </p>
+  <p>Enter command: find cooking time</p>
+  <p>Max cooking time: 30</p>
+  <br />
+  <p>
+   Recipes:
+  <br />
+   Meatballs, cooking time: 20
+  <br />
+   Tofu rolls, cooking time: 30
+  </p>
+  <p>Enter command: stop</p>
+    
 </div>
